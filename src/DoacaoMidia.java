@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class PrincipalAluguel {
+public class DoacaoMidia {
     public static void main(String[] args) {
         System.out.println(ANSI_BLUE+" _________________________________________________\n" +
                 "|                  LOCADORA VIDEON                |\n" +
